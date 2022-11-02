@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lEW8KWnvHlq/OZuZ4atD+8r7h7I1twmGUzZ/PojFDM+wNzpaYLdzfD9JWTYiXgUgXtAQhDGwHb7jbfKBGGRzg==",
+  "success": true,
+  "projectFilePath": "E:\\Companies\\Interviews\\GameNet\\TCPChatApp\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\supersimpletcp\\3.0.5\\supersimpletcp.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
